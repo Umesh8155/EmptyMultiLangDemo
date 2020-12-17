@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="?attr/colorPrimary"
+    android:contentInsetEnd="0dp"
+    android:contentInsetLeft="0dp"
+    android:contentInsetRight="0dp"
+    android:contentInsetStart="0dp"
+    app:contentInsetEnd="0dp"
+    app:contentInsetLeft="0dp"
+    app:contentInsetRight="0dp"
+    app:contentInsetStart="0dp"
+    app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+    app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/ivDrawer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="@dimen/value_10"
+            android:layout_marginLeft="@dimen/value_5"
+            app:srcCompat="@drawable/ic_if_menu2_1031510" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="left|center"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:layout_weight="0.5"
+            android:layout_marginRight="10dp"
+            android:padding="@dimen/value_10"
+            android:text="@string/app_name" />
+
+
+        <com.demo.multilanguage.font.MyTextViewBold
+            android:id="@+id/tv_date_only"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="right|center"
+            android:textSize="16dp"
+            android:textColor="@color/white"
+            android:layout_weight="0.5"
+            android:visibility="gone"
+            android:layout_marginTop="3dp"
+            android:padding="@dimen/value_10"
+            android:text="00-00-0000" />
+
+        <ImageView
+            android:id="@+id/iv_setting"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"
+            android:paddingLeft="10dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:visibility="visible"
+            android:layout_marginTop="3dp"
+            android:layout_marginRight="10dp"
+            app:srcCompat="@drawable/ic_iconfinder_1238" />
+
+
+    </LinearLayout>
+</Toolbar>

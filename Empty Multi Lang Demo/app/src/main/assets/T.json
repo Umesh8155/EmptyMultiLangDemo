@@ -1,0 +1,252 @@
+{
+  "Timezone":[
+    {
+      "zone_ID":1,
+      "time_zone":"+11:00 Bering Time - BET"
+    },
+    {
+      "zone_ID":2,
+      "time_zone":"+11:00 Nome Time - NT"
+    },
+    {
+      "zone_ID":3,
+      "time_zone":"+10:00 Hawaii-Aleutian Time - HST"
+    },
+    {
+      "zone_ID":4,
+      "time_zone":"+09:00 Yukon Time - YST"
+    },
+    {
+      "zone_ID":5,
+      "time_zone":"+09:00 Alaska Standard Time - AKST"
+    },
+    {
+      "zone_ID":6,
+      "time_zone":"+08:00 Alaska Daylight Time - AKDT"
+    },
+    {
+      "zone_ID":7,
+      "time_zone":"+08:00 Pacific Standard Time - PST"
+    },
+    {
+      "zone_ID":8,
+      "time_zone":"+07:00 Pacific Daylight Time - PDT"
+    },
+    {
+      "zone_ID":9,
+      "time_zone":"+07:00 Pacific War Time - PWT"
+    },
+    {
+      "zone_ID":10,
+      "time_zone":"+07:00 Mountain Standard Time - MST"
+    },
+    {
+      "zone_ID":11,
+      "time_zone":"+06:00 Mountain Daylight Time - MDT"
+    },
+    {
+      "zone_ID":12,
+      "time_zone":"+06:00 Mountain War Time - MWT"
+    },
+    {
+      "zone_ID":13,
+      "time_zone":"+06:00 Central Standard Time - CST"
+    },
+    {
+      "zone_ID":14,
+      "time_zone":"+06:00 Central War Time - CWT"
+    },
+    {
+      "zone_ID":15,
+      "time_zone":"+05:00 Central Daylight Time - CDT"
+    },
+    {
+      "zone_ID":16,
+      "time_zone":"+05:00 Eastern Standard Time - EST"
+    },
+    {
+      "zone_ID":17,
+      "time_zone":"+04:00 Eastern Daylight Time - EDT"
+    },
+    {
+      "zone_ID":18,
+      "time_zone":"+04:00 Eastern War Time - EWT"
+    },
+    {
+      "zone_ID":19,
+      "time_zone":"+04:00 Atlantic Standard Time - AST"
+    },
+    {
+      "zone_ID":20,
+      "time_zone":"+03:30 Newfoundland Time - NST"
+    },
+    {
+      "zone_ID":21,
+      "time_zone":"+03:00 Atlantic Daylight Time - ADT"
+    },
+    {
+      "zone_ID":22,
+      "time_zone":"+03:00 Atlantic War Time - AWT"
+    },
+    {
+      "zone_ID":23,
+      "time_zone":"+03:00 Brazil Zone 2 - BZT2"
+    },
+    {
+      "zone_ID":24,
+      "time_zone":"+02:00 Azores Time - AZ"
+    },
+    {
+      "zone_ID":25,
+      "time_zone":"+01:00 West Africa Time - WAT"
+    },
+    {
+      "zone_ID":26,
+      "time_zone":"+00:00 Greenwich Mean Time - GMT"
+    },
+    {
+      "zone_ID":27,
+      "time_zone":"-01:00 British Summer Time - BST"
+    },
+    {
+      "zone_ID":28,
+      "time_zone":"-01:00 Central European Time - CET"
+    },
+    {
+      "zone_ID":29,
+      "time_zone":"-01:00 Middle European Time - MET"
+    },
+    {
+      "zone_ID":30,
+      "time_zone":"-02:00 British War Time - BWT"
+    },
+    {
+      "zone_ID":31,
+      "time_zone":"-02:00 Eastern European Time - EET"
+    },
+    {
+      "zone_ID":32,
+      "time_zone":"-02:00 Central European Summer Time - CEST"
+    },
+    {
+      "zone_ID":33,
+      "time_zone":"-02:00 Russian Federation Zone 1 - RFTm2"
+    },
+    {
+      "zone_ID":34,
+      "time_zone":"-03:00 Eastern European Summer Time - EEST"
+    },
+    {
+      "zone_ID":35,
+      "time_zone":"-03:00 Baghdad Time - BAT"
+    },
+    {
+      "zone_ID":36,
+      "time_zone":"-03:00 Russian Federation Zone 2 - RFTm3"
+    },
+    {
+      "zone_ID":37,
+      "time_zone":"-04:00 Russian Federation Zone 3 - RFTm4"
+    },
+    {
+      "zone_ID":38,
+      "time_zone":"-05:00 Russian Federation Zone 4 - RFTm5"
+    },
+    {
+      "zone_ID":39,
+      "time_zone":"-05:30 Indian Time - IST"
+    },
+    {
+      "zone_ID":40,
+      "time_zone":"-06:00 Russian Federation Zone 5 - RFTm6"
+    },
+    {
+      "zone_ID":41,
+      "time_zone":"-06:30 North Sumatra Time - NSUT"
+    },
+    {
+      "zone_ID":42,
+      "time_zone":"-07:00 South Sumatra Time - SSUT"
+    },
+    {
+      "zone_ID":43,
+      "time_zone":"-07:00 Russian Federation Zone 6 - RFTm7"
+    },
+    {
+      "zone_ID":44,
+      "time_zone":"-07:30 Java Time - JT"
+    },
+    {
+      "zone_ID":45,
+      "time_zone":"-08:00 Australian Western Time - AWST"
+    },
+    {
+      "zone_ID":46,
+      "time_zone":"-08:00 China Coast Time - CCT"
+    },
+    {
+      "zone_ID":47,
+      "time_zone":"-08:00 Russian Federation Zone 7 - RFTm8"
+    },
+    {
+      "zone_ID":48,
+      "time_zone":"-09:00 Australian Western Summer Time - AWDT"
+    },
+    {
+      "zone_ID":49,
+      "time_zone":"-09:00 Japan Time - JST"
+    },
+    {
+      "zone_ID":50,
+      "time_zone":"-09:00 Russian Federation Zone 8 - RFTm9"
+    },
+    {
+      "zone_ID":51,
+      "time_zone":"-09:30 Australian Central Time - ACST"
+    },
+    {
+      "zone_ID":52,
+      "time_zone":"-09:30 South Australian Time - SAT"
+    },
+    {
+      "zone_ID":53,
+      "time_zone":"-10:00 Australian Eastern Time - AEST"
+    },
+    {
+      "zone_ID":54,
+      "time_zone":"-10:00 Guam Time - GST"
+    },
+    {
+      "zone_ID":55,
+      "time_zone":"-10:00 Russian Federation Zone 9 - RFTm10"
+    },
+    {
+      "zone_ID":56,
+      "time_zone":"-10:30 Australian Central Summer Time - ACDT"
+    },
+    {
+      "zone_ID":57,
+      "time_zone":"-10:30 South Australian Summer Time - SDT"
+    },
+    {
+      "zone_ID":58,
+      "time_zone":"-11:00 Australian Eastern Summer Time - AEDT"
+    },
+    {
+      "zone_ID":59,
+      "time_zone":"-11:00 Russian Federation Zone 10 - RFTm11"
+    },
+    {
+      "zone_ID":60,
+      "time_zone":"-12:00 New Zealand Time - NZT"
+    },
+    {
+      "zone_ID":61,
+      "time_zone":"-12:00 Russian Federation Zone 11 - RFTm12"
+    },
+    {
+      "zone_ID":62,
+      "time_zone":"-13:00 New Zealand Summer Time - NZST"
+    }
+  ]
+}

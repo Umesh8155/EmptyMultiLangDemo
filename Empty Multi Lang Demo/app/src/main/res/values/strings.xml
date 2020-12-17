@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Multi Language Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_ok">Ok</string>
+    <string name="hint_cancel">Cancel</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+    <string name="language">English</string>
+
+    <string name="title">Close Application</string>
+    <string name="message">Are you sure you want to close this Application?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="g">ગુજરાતી</string>
+    <string name="h">हिन्दी</string>
+    <string name="e">English</string>
+
+    <string name="home">home</string>
+    <string name="s">Setting</string>
+    <string name="m">Share</string>
+    <string name="r">Rate</string>
+    <string name="l">Language</string>
+
+    <string name="a1">No internet ,Please check the Internet connection of the device </string>
+    <string name="a2">No internet</string>
+
+    <string name="land">Choose your language</string>
+
+</resources>

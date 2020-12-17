@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Multi Language Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_ok">Ok</string>
+    <string name="hint_cancel">Cancel</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+    <string name="language">ગુજરાતી</string>
+
+    <string name="title">એપ્લિકેશન બંધ કરો</string>
+    <string name="message">શું તમે ખરેખર આ એપ્લિકેશન બંધ કરવા માંગો છો?</string>
+    <string name="yes">હા</string>
+    <string name="no">ના</string>
+
+    <string name="g">ગુજરાતી</string>
+    <string name="h">हिन्दी</string>
+    <string name="e">English</string>
+
+    <string name="s">સેટિંગ</string>
+    <string name="m">મોકલો</string>
+    <string name="r">રેટ કરો</string>
+    <string name="l">ભાષા</string>
+
+    <string name="home">home</string>
+
+    <string name="a1">ઈન્ટરનેટ નથી , કૃપયા  ઉપકરણ નો ઈન્ટરનેટ જોડાણ તપાસો </string>
+    <string name="a2">ઈન્ટરનેટ નથી</string>
+
+    <string name="land">Choose your language</string>
+
+</resources>
